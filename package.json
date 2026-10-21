@@ -13,6 +13,7 @@
     "url": "git+https://github.com/enjoyka21/frontend-project-44.git"
   },
   "bin": {
+    "brain-even": "bin/brain-even.js",
     "brain-games": "bin/brain-games.js"
   },
   "type": "module",
