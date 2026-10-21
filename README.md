@@ -13,16 +13,37 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
-
 ```bash
 git clone https://github.com/enjoyka21/frontend-project-44.git
 cd frontend-project-44
+npm ci
 ```
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+Запуск приветствия:
+
+```bash
+brain-games
+```
+
+[Демонстрация brain-games](https://asciinema.org/a/N83jFPc07Q5d1ZJU)
+
+### Проверка на чётность
+
+```bash
+brain-even
+```
+
+[Демонстрация brain-even](https://asciinema.org/a/QDkfb8DvEv4tipUD)
+
+### Калькулятор
+
+```bash
+brain-calc
+```
+
+[Демонстрация brain-calc](https://asciinema.org/a/p4I4SlwHjIZjqmhK)
 
 ---
 
