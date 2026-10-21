@@ -45,6 +45,16 @@ brain-calc
 
 [Демонстрация brain-calc](https://asciinema.org/a/p4I4SlwHjIZjqmhK)
 
+### Наибольший общий делитель
+
+```bash
+brain-gcd
+```
+
+[Успешная игра brain-gcd](https://asciinema.org/a/14JCGlCDwid3LwSG)
+
+[Неверный ответ в brain-gcd](https://asciinema.org/a/AJ5rviS2QuKL8tgs)
+
 ---
 
 <details>

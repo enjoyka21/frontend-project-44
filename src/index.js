@@ -3,8 +3,12 @@ import greet from "./cli.js";
 
 const roundsCount = 3;
 
-const playGame = (game) => {
+const playGame = (game, description = "") => {
   const name = greet();
+
+  if (description) {
+    console.log(description);
+  }
 
   for (let i = 0; i < roundsCount; i += 1) {
     const [question, correctAnswer] = game();
