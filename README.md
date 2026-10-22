@@ -55,6 +55,16 @@ brain-gcd
 
 [Неверный ответ в brain-gcd](https://asciinema.org/a/AJ5rviS2QuKL8tgs)
 
+### Арифметическая прогрессия
+
+```bash
+brain-progression
+```
+
+[Успешная игра brain-progression](https://asciinema.org/a/WWSCGYPFSLoPOHaf)
+
+[Неверный ответ в brain-progression](https://asciinema.org/a/8CugUD3oEwcFejg3)
+
 ---
 
 <details>
