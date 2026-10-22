@@ -65,6 +65,14 @@ brain-progression
 
 [Неверный ответ в brain-progression](https://asciinema.org/a/8CugUD3oEwcFejg3)
 
+### Простое ли число?
+
+```bash
+brain-prime
+```
+
+Демонстрации ещё нужно записать: [инструкция по записи терминала Asciinema](https://docs.asciinema.org/manual/cli/rec/).
+
 ---
 
 <details>
