@@ -2,6 +2,8 @@ const minimumNumber = 1;
 const maximumNumber = 100;
 const operators = ["+", "-", "*"];
 
+const gameDescription = "What is the result of the expression?";
+
 const getRandomNumber = () => Math.floor(Math.random() * maximumNumber) + minimumNumber;
 
 const getRandomOperator = () => {
@@ -33,4 +35,5 @@ const generateRound = () => {
   return [question, correctAnswer];
 };
 
+export { gameDescription };
 export default generateRound;
