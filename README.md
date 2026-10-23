@@ -71,7 +71,9 @@ brain-progression
 brain-prime
 ```
 
-Демонстрации ещё нужно записать: [инструкция по записи терминала Asciinema](https://docs.asciinema.org/manual/cli/rec/).
+[Успешная игра brain-prime](https://asciinema.org/a/o29qxQFI6HzwkzBM)
+
+[Неверный ответ в brain-prime](https://asciinema.org/a/GBQDWEkcG02qAaep)
 
 ---
 
